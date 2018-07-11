@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcalvernaz%2Freactive-pg-client.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcalvernaz%2Freactive-pg-client?ref=badge_shield)
+
 = Reactive Postgres Client
 
 image:https://travis-ci.org/reactiverse/reactive-pg-client.svg?branch=master["Build Status",link="https://travis-ci.org/vietj/reactive-pg-client"]
@@ -264,3 +266,7 @@ The current documentation is in `/jekyll` and can be preview using Docker and yo
 ** `cd jekyll`
 ** `docker-compose up`
 * open your browser at http://localhost:4000
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcalvernaz%2Freactive-pg-client.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcalvernaz%2Freactive-pg-client?ref=badge_large)
